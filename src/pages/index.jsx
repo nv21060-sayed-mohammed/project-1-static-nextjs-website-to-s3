@@ -141,7 +141,7 @@ function Resume() {
     {
       company: 'NVTC',
       title: 'CEO',
-      logo: logonvtc,
+      logo: NVTC_Logo-2,
       start: '2019',
       end: {
         label: 'Present',
