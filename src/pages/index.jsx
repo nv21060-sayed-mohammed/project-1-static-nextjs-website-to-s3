@@ -154,14 +154,14 @@ function Resume() {
       end: '2019',
     },
     {
-      company: 'Facebook',
-      title: 'iOS Software Engineer',
+      company: 'NVTC',
+      title: 'NVTC Cloud Computing Student',
       start: '2011',
       end: '2014',
     },
     {
-      company: 'Starbucks',
-      title: 'Shift Supervisor',
+      company: 'ALNOOR International School',
+      title: 'Primary School',
       start: '2008',
       end: '2011',
     },
