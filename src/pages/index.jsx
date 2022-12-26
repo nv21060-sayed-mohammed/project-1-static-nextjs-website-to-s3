@@ -149,8 +149,8 @@ function Resume() {
       },
     },
     {
-      company: 'Airbnb',
-      title: 'Product Designer',
+      company: 'AWS',
+      title: 'Solution Architect',
       logo: logoAirbnb,
       start: '2014',
       end: '2019',
