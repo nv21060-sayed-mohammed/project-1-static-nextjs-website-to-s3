@@ -257,7 +257,6 @@ export default function Home({ articles }) {
           name="description"
           content="I’m Spencer, a software designer and entrepreneur based in New York City. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms."
         />
-        <link rel="icon" type="image/x-icon" href="favicon.ico"></link>
       </Head>
       <Container className="mt-9">
         <div className="max-w-2xl">
